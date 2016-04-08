@@ -1,0 +1,24 @@
+﻿<Controls:MetroWindow x:Class="KIK.Menu"
+                      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                      xmlns:Controls="clr-namespace:MahApps.Metro.Controls;assembly=MahApps.Metro"
+                      Title="MainWindow"
+                      Height="600"
+                      Width="800">
+    <Grid HorizontalAlignment="Center" Margin="0" VerticalAlignment="Center" Width="400" Height="400">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Image Grid.Column="0" Grid.Row="0" Name="START" Margin="5" Source="res/img/nowa1gra.png" MouseEnter="Menu_MouseEnter" MouseLeave="Menu_MouseLeave"/>
+        <Image Grid.Column="0" Grid.Row="1" Name="RANKING" Margin="5" MouseEnter="Menu_MouseEnter" MouseLeave="Menu_MouseLeave" Source="res/img/ranking.png"></Image>
+        <Image Grid.Column="0" Grid.Row="2" Name="SETTINGS" Margin="5" MouseEnter="Menu_MouseEnter" MouseLeave="Menu_MouseLeave" Source="res/img/ustawienia.png"></Image>
+        <Image Grid.Column="0" Grid.Row="3" Name="RULES" Margin="5" MouseEnter="Menu_MouseEnter" MouseLeave="Menu_MouseLeave" Source="res/img/zasady.png"></Image>
+    </Grid>
+</Controls:MetroWindow>

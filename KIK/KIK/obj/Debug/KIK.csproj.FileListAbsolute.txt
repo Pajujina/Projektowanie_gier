@@ -1,0 +1,44 @@
+c:\users\ja\documents\visual studio 2013\Projects\KIK\KIK\bin\Debug\KIK.exe.config
+c:\users\ja\documents\visual studio 2013\Projects\KIK\KIK\bin\Debug\KIK.exe
+c:\users\ja\documents\visual studio 2013\Projects\KIK\KIK\bin\Debug\KIK.pdb
+c:\users\ja\documents\visual studio 2013\Projects\KIK\KIK\obj\Debug\MainWindow.baml
+c:\users\ja\documents\visual studio 2013\Projects\KIK\KIK\obj\Debug\MainWindow.g.cs
+c:\users\ja\documents\visual studio 2013\Projects\KIK\KIK\obj\Debug\App.g.cs
+c:\users\ja\documents\visual studio 2013\Projects\KIK\KIK\obj\Debug\KIK_MarkupCompile.cache
+c:\users\ja\documents\visual studio 2013\Projects\KIK\KIK\obj\Debug\KIK.g.resources
+c:\users\ja\documents\visual studio 2013\Projects\KIK\KIK\obj\Debug\KIK.Properties.Resources.resources
+c:\users\ja\documents\visual studio 2013\Projects\KIK\KIK\obj\Debug\KIK.csproj.GenerateResource.Cache
+c:\users\ja\documents\visual studio 2013\Projects\KIK\KIK\obj\Debug\KIK.exe
+c:\users\ja\documents\visual studio 2013\Projects\KIK\KIK\obj\Debug\KIK.pdb
+c:\users\ja\documents\visual studio 2013\Projects\KIK\KIK\bin\Debug\MahApps.Metro.dll
+c:\users\ja\documents\visual studio 2013\Projects\KIK\KIK\bin\Debug\System.Windows.Interactivity.dll
+c:\users\ja\documents\visual studio 2013\Projects\KIK\KIK\bin\Debug\MahApps.Metro.pdb
+c:\users\ja\documents\visual studio 2013\Projects\KIK\KIK\bin\Debug\MahApps.Metro.xml
+c:\users\ja\documents\visual studio 2013\Projects\KIK\KIK\obj\Debug\KIK.csprojResolveAssemblyReference.cache
+c:\users\ja\documents\visual studio 2013\Projects\KIK\KIK\obj\Debug\Resources\Icons.baml
+c:\users\ja\documents\visual studio 2013\Projects\KIK\KIK\obj\Debug\App.baml
+c:\users\ja\documents\visual studio 2013\Projects\KIK\KIK\obj\Debug\Resources\Icons.g.cs
+c:\users\ja\documents\visual studio 2013\Projects\KIK\KIK\obj\Debug\Menu.baml
+c:\users\ja\documents\visual studio 2013\Projects\KIK\KIK\obj\Debug\Menu.g.cs
+X:\Projektowanie_gier\KIK\KIK\bin\Debug\KIK.exe.config
+X:\Projektowanie_gier\KIK\KIK\obj\Debug\KIK.exe
+X:\Projektowanie_gier\KIK\KIK\obj\Debug\KIK.pdb
+X:\Projektowanie_gier\KIK\KIK\bin\Debug\KIK.exe
+X:\Projektowanie_gier\KIK\KIK\bin\Debug\KIK.pdb
+X:\Projektowanie_gier\KIK\KIK\bin\Debug\MahApps.Metro.dll
+X:\Projektowanie_gier\KIK\KIK\bin\Debug\System.Windows.Interactivity.dll
+X:\Projektowanie_gier\KIK\KIK\bin\Debug\MahApps.Metro.pdb
+X:\Projektowanie_gier\KIK\KIK\bin\Debug\MahApps.Metro.xml
+X:\Projektowanie_gier\KIK\KIK\obj\Debug\KIK.csprojResolveAssemblyReference.cache
+X:\Projektowanie_gier\KIK\KIK\obj\Debug\MainWindow.baml
+X:\Projektowanie_gier\KIK\KIK\obj\Debug\Menu.baml
+X:\Projektowanie_gier\KIK\KIK\obj\Debug\Resources\Icons.baml
+X:\Projektowanie_gier\KIK\KIK\obj\Debug\App.baml
+X:\Projektowanie_gier\KIK\KIK\obj\Debug\MainWindow.g.cs
+X:\Projektowanie_gier\KIK\KIK\obj\Debug\Menu.g.cs
+X:\Projektowanie_gier\KIK\KIK\obj\Debug\Resources\Icons.g.cs
+X:\Projektowanie_gier\KIK\KIK\obj\Debug\App.g.cs
+X:\Projektowanie_gier\KIK\KIK\obj\Debug\KIK_MarkupCompile.cache
+X:\Projektowanie_gier\KIK\KIK\obj\Debug\KIK.g.resources
+X:\Projektowanie_gier\KIK\KIK\obj\Debug\KIK.Properties.Resources.resources
+X:\Projektowanie_gier\KIK\KIK\obj\Debug\KIK.csproj.GenerateResource.Cache
