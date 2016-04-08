@@ -12,6 +12,7 @@ W najbardziej popularnej w Polsce wersji gra odbywa się na polu o wymiarach 3x3
 
 
 Plan pracy:
+
 1. Przygotowanie grafiki koncepcyjnej
 
 2. Zaplanowanie mechanizmu działania
